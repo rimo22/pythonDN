@@ -9,7 +9,7 @@ import random   # omogočimo, da računalnik izbere naključno število v danem 
 
 comp_value = random.randint(1, 100)                                 #računalnik izbere število med 1 in 100
 print "IGRA - UGANI SKRITO ŠTEVILO !!!!"
-print "Poskusi ugotoviti številko med 1 in 100, ki si jo naključno izbral računalnik."
+print "Poskusi ugotoviti število med 1 in 100, ki si jo naključno izbral računalnik."
 stevec_poskusov = 1                                                 #števec poskusov damo na 1
 while True:
     moja_vrednost = raw_input("Vpiši številko med 1 in 100 : ")     #vnesemo število
