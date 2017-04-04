@@ -3,8 +3,6 @@
 #  program napisal Miro - 3.4.2017 - naloga 8.1
 # program pretvarja med enotami
 
-degree_sign= u'\N{DEGREE SIGN}'
-
 while True:
     print ""
     print "PRETVORNIK"
